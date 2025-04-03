@@ -20,27 +20,6 @@ API testing methodologies;
 Software quality assurance practices.
 
 
-Skills
-
-Technical:
-
-Software Testing (Manual & Automated);  
-API Testing;  
-Test Documentation;  
-Bug Tracking;  
-Digital Forensics.
-
-
-Soft Skills:
-
-Analytical Thinking;  
-Problem Solving;  
-Attention to Detail;  
-Communication;  
-Adaptability.
-
-
-
 Currently Learning
 
 Advanced test automation frameworks
