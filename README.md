@@ -22,6 +22,6 @@ Software quality assurance practices.
 
 Currently Learning
 
-Advanced test automation frameworks
-CI/CD integration for testing
-Performance testing methodologies
+Advanced test automation frameworks, 
+CI/CD integration for testing, 
+Performance testing methodologies.
