@@ -4,8 +4,8 @@ IT professional with a diverse background transitioning to QA Engineering. My un
 
 Professional Background:
 
-IT Support: Providing technical solutions and system optimization;
-Digital Forensics: Experience in police investigation focused on digital crimes;
+IT Support: Providing technical solutions and system optimization;\n
+Digital Forensics: Experience in police investigation focused on digital crimes;\n
 Administration & Public Management: Skills in organization, compliance, and process improvement.
 
 QA Engineering: Currently developing expertise in:
