@@ -25,3 +25,5 @@ Currently Learning
 Advanced test automation frameworks, 
 CI/CD integration for testing, 
 Performance testing methodologies.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemitriSimoes&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
