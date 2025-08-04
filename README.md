@@ -25,3 +25,7 @@ Currently Learning
 Advanced test automation frameworks, 
 CI/CD integration for testing, 
 Performance testing methodologies.
+
+### Linguagens mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemitriSimoes)](https://github.com/anuraghazra/github-readme-stats)
