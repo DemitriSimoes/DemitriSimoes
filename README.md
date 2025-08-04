@@ -28,4 +28,4 @@ Performance testing methodologies.
 
 ### Linguagens mais usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/langs/?username=DemitriSimoes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/all-langs/?username=DemitriSimoes)](https://github.com/anuraghazra/github-readme-stats)
