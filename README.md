@@ -1,12 +1,4 @@
-Hello, I'm Demtri 👋
+Hola, soy Demitri Simoes 👋
 
 
-My unique journey through IT support, police investigation (digital crimes), administration, and public management has equipped me with exceptional analytical skills and a detail-oriented approach to problem-solving.
-
-
-Professional Background:  
-
-Data driven: Experience in statics crimes and data audit.
-IT Support: Providing technical solutions and system optimization;  
-Digital Forensics: Experience in police investigation focused on digital crimes;  
-Administration & Public Management: Skills in organization, compliance, and process improvement.
+Profesional técnico-analista orientado a datos y visión de negocio, con experiencia en resolución de problemas, gestión de información y análisis de procesos en entornos administrativos, financieros y de inteligencia institucional. Trayectoria trabajando con hojas de cálculo, control financiero, auditoría de datos y validación de información para publicación oficial, cumpliendo normativas y estándares formales.
